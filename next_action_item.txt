@@ -1,0 +1,10 @@
+A. Project = subject_crud_operations
+	1. create table `subject` with columns subject_id (int,primary key, auto increment), subject_name (varchar,  unique), teacher_id 	(int) under crud_operations database.
+	2. write menu driven python program to insert, update(teacher_id) , display and delete records.
+	3. subject_crud.py
+	4. driver.py
+
+B. project = subject_crud_apis
+	
+	1. subject_crud.py
+	2. menu.py (add API routes for crud operations insert, update, display and delete)
